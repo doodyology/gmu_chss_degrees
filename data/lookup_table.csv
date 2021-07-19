@@ -1,0 +1,828 @@
+﻿EMPSTAT,employment,DEGFIELDD,degree,STATEICP        ,state,MET2013,metro,OCC,occupation,IND,industry,degclass,degtype
+0,NA,0,No Degree,1,Connecticut,0,NA,0,N/A,0,NA,1100,Non-CHSS Degree
+1,Employed,1100,General Agriculture,2,Maine,10420,Akron  OH,10,Managers in Business  Science  and the Arts,170,Agriculture  Forestry  Fishing and Hunting  and Mining,1101,Non-CHSS Degree
+2,Unemployed,1101,Agriculture Production and Management,3,Massachusetts,10580,Albany-Schenectady-Troy  NY,20,Managers in Business  Science  and the Arts,180,Agriculture  Forestry  Fishing and Hunting  and Mining,1103,Non-CHSS Degree
+3,Not in labor force,1102,Agricultural Economics,4,New Hampshire,10740,Albuquerque  NM,10,Managers in Business  Science  and the Arts,190,Agriculture  Forestry  Fishing and Hunting  and Mining,1104,Non-CHSS Degree
+,,1103,Animal Sciences,5,Rhode Island,10780,Alexandria  LA,40,Managers in Business  Science  and the Arts,270,Agriculture  Forestry  Fishing and Hunting  and Mining,1105,Non-CHSS Degree
+,,1104,Food Science,6,Vermont,10900,Allentown-Bethlehem-Easton  PA-NJ,50,Managers in Business  Science  and the Arts,280,Agriculture  Forestry  Fishing and Hunting  and Mining,1106,Non-CHSS Degree
+,,1105,Plant Science and Agronomy,11,Delaware,11020,Altoona  PA,50,Managers in Business  Science  and the Arts,290,Agriculture  Forestry  Fishing and Hunting  and Mining,1199,Non-CHSS Degree
+,,1106,Soil Science,12,New Jersey,11100,Amarillo  TX,60,Managers in Business  Science  and the Arts,370,Agriculture  Forestry  Fishing and Hunting  and Mining,1302,Non-CHSS Degree
+,,1199,Miscellaneous Agriculture,13,New York,11260,Anchorage  AK,100,Managers in Business  Science  and the Arts,380,Agriculture  Forestry  Fishing and Hunting  and Mining,1401,Non-CHSS Degree
+,,1300,Environment and Natural Resources,14,Pennsylvania,11460,Ann Arbor  MI,110,Managers in Business  Science  and the Arts,390,Agriculture  Forestry  Fishing and Hunting  and Mining,2001,Non-CHSS Degree
+,,1301,Environmental Science,21,Illinois,11500,Anniston-Oxford-Jacksonville  AL,120,Managers in Business  Science  and the Arts,470,Agriculture  Forestry  Fishing and Hunting  and Mining,2100,Non-CHSS Degree
+,,1302,Forestry,22,Indiana,11700,Asheville  NC,140,Managers in Business  Science  and the Arts,490,Agriculture  Forestry  Fishing and Hunting  and Mining,2101,Non-CHSS Degree
+,,1303,Natural Resources Management,23,Michigan,12020,Athens-Clarke County  GA,150,Managers in Business  Science  and the Arts,770,Construction,2102,Non-CHSS Degree
+,,1401,Architecture,24,Ohio,12060,Atlanta-Sandy Springs-Roswell  GA,160,Managers in Business  Science  and the Arts,1070,Manufacturing,2105,Non-CHSS Degree
+,,1501,Area  Ethnic  and Civilization Studies,25,Wisconsin,12100,Atlantic City-Hammonton  NJ,135,Managers in Business  Science  and the Arts,1080,Manufacturing,2106,Non-CHSS Degree
+,,1900,Communications,31,Iowa,12220,Auburn-Opelika  AL,136,Managers in Business  Science  and the Arts,1090,Manufacturing,2107,Non-CHSS Degree
+,,1901,Communications,32,Kansas,12260,Augusta-Richmond County  GA-SC,137,Managers in Business  Science  and the Arts,1170,Manufacturing,2201,Non-CHSS Degree
+,,1902,Journalism,33,Minnesota,12420,Austin-Round Rock  TX,205,Managers in Business  Science  and the Arts,1180,Manufacturing,2300,Non-CHSS Degree
+,,1903,Mass Media,34,Missouri,12540,Bakersfield  CA,220,Managers in Business  Science  and the Arts,1190,Manufacturing,2301,Non-CHSS Degree
+,,1904,Advertising and Public Relations,35,Nebraska,12580,Baltimore-Columbia-Towson  MD,230,Managers in Business  Science  and the Arts,1270,Manufacturing,2303,Non-CHSS Degree
+,,2001,Communication Technologies,36,North Dakota,12620,Bangor  ME,230,Managers in Business  Science  and the Arts,1280,Manufacturing,2304,Non-CHSS Degree
+,,2100,Computer and Information Systems,37,South Dakota,12700,Barnstable Town  MA,230,Managers in Business  Science  and the Arts,1290,Manufacturing,2305,Non-CHSS Degree
+,,2101,Computer Programming and Data Processing,40,Virginia,12940,Baton Rouge  LA,230,Managers in Business  Science  and the Arts,1370,Manufacturing,2306,Non-CHSS Degree
+,,2102,Computer Science,41,Alabama,12980,Battle Creek  MI,300,Managers in Business  Science  and the Arts,1390,Manufacturing,2307,Non-CHSS Degree
+,,2105,Information Sciences,42,Arkansas,13140,Beaumont-Port Arthur  TX,310,Managers in Business  Science  and the Arts,1470,Manufacturing,2308,Non-CHSS Degree
+,,2106,Computer Information Management and Security,43,Florida,13380,Bellingham  WA,430,Managers in Business  Science  and the Arts,1480,Manufacturing,2309,Non-CHSS Degree
+,,2107,Computer Networking and Telecommunications,44,Georgia,13460,Bend-Redmond  OR,330,Managers in Business  Science  and the Arts,1490,Manufacturing,2310,Non-CHSS Degree
+,,2201,Cosmetology Services and Culinary Arts,45,Louisiana,13740,Billings  MT,340,Managers in Business  Science  and the Arts,1570,Manufacturing,2311,Non-CHSS Degree
+,,2300,General Education,46,Mississippi,13780,Binghamton  NY,350,Managers in Business  Science  and the Arts,1590,Manufacturing,2312,Non-CHSS Degree
+,,2301,Educational Administration and Supervision,47,North Carolina,13820,Birmingham-Hoover  AL,360,Managers in Business  Science  and the Arts,1670,Manufacturing,2313,Non-CHSS Degree
+,,2303,School Student Counseling,48,South Carolina,13900,Bismarck  ND,430,Managers in Business  Science  and the Arts,1680,Manufacturing,2314,Non-CHSS Degree
+,,2304,Elementary Education,49,Texas,13980,Blacksburg-Christiansburg-Radford  VA,410,Managers in Business  Science  and the Arts,1690,Manufacturing,2399,Non-CHSS Degree
+,,2305,Mathematics Teacher Education,51,Kentucky,14010,Bloomington  IL,420,Managers in Business  Science  and the Arts,1770,Manufacturing,2400,Non-CHSS Degree
+,,2306,Physical and Health Education Teaching,52,Maryland,14020,Bloomington  IN,425,Managers in Business  Science  and the Arts,1790,Manufacturing,2401,Non-CHSS Degree
+,,2307,Early Childhood Education,53,Oklahoma,14260,Boise City  ID,430,Managers in Business  Science  and the Arts,1870,Manufacturing,2402,Non-CHSS Degree
+,,2308,Science and Computer Teacher Education,54,Tennessee,14460,Boston-Cambridge-Newton  MA-NH,500,Business Operations Specialists,1880,Manufacturing,2403,Non-CHSS Degree
+,,2309,Secondary Teacher Education,56,West Virginia,14740,Bremerton-Silverdale  WA,510,Business Operations Specialists,1890,Manufacturing,2404,Non-CHSS Degree
+,,2310,Special Needs Education,61,Arizona,14860,Bridgeport-Stamford-Norwalk  CT,520,Business Operations Specialists,1990,Manufacturing,2405,Non-CHSS Degree
+,,2311,Social Science or History Teacher Education,62,Colorado,15180,Brownsville-Harlingen  TX,530,Business Operations Specialists,2070,Manufacturing,2406,Non-CHSS Degree
+,,2312,Teacher Education: Multiple Levels,63,Idaho,15380,Buffalo-Cheektowaga-Niagara Falls  NY,540,Business Operations Specialists,2090,Manufacturing,2407,Non-CHSS Degree
+,,2313,Language and Drama Education,64,Montana,15500,Burlington  NC,540,Business Operations Specialists,2170,Manufacturing,2408,Non-CHSS Degree
+,,2314,Art and Music Education,65,Nevada,15540,Burlington-South Burlington  VT,565,Business Operations Specialists,2180,Manufacturing,2409,Non-CHSS Degree
+,,2399,Miscellaneous Education,66,New Mexico,15940,Canton-Massillon  OH,600,Business Operations Specialists,2190,Manufacturing,2410,Non-CHSS Degree
+,,2400,General Engineering,67,Utah,15980,Cape Coral-Fort Myers  FL,630,Business Operations Specialists,2270,Manufacturing,2411,Non-CHSS Degree
+,,2401,Aerospace Engineering,68,Wyoming,16580,Champaign-Urbana  IL,630,Business Operations Specialists,2280,Manufacturing,2412,Non-CHSS Degree
+,,2402,Biological Engineering,71,California,16620,Charleston  WV,630,Business Operations Specialists,2290,Manufacturing,2413,Non-CHSS Degree
+,,2403,Architectural Engineering,72,Oregon,16700,Charleston-North Charleston  SC,700,Business Operations Specialists,2370,Manufacturing,2414,Non-CHSS Degree
+,,2404,Biomedical Engineering,73,Washington,16740,Charlotte-Concord-Gastonia  NC-SC,710,Business Operations Specialists,2380,Manufacturing,2415,Non-CHSS Degree
+,,2405,Chemical Engineering,81,Alaska,16820,Charlottesville  VA,725,Business Operations Specialists,2390,Manufacturing,2416,Non-CHSS Degree
+,,2406,Civil Engineering,82,Hawaii,16860,Chattanooga  TN-GA,726,Business Operations Specialists,2470,Manufacturing,2417,Non-CHSS Degree
+,,2407,Computer Engineering,83,Puerto Rico,16980,Chicago-Naperville-Elgin  IL-IN-WI,640,Business Operations Specialists,2480,Manufacturing,2418,Non-CHSS Degree
+,,2408,Electrical Engineering,96,State groupings (1980 Urban/rural sample),17020,Chico  CA,650,Business Operations Specialists,2490,Manufacturing,2419,Non-CHSS Degree
+,,2409,Engineering Mechanics  Physics  and Science,97,Military/Mil. Reservations,17140,Cincinnati  OH-KY-IN,735,Business Operations Specialists,2570,Manufacturing,2499,Non-CHSS Degree
+,,2410,Environmental Engineering,98,District of Columbia,17300,Clarksville  TN-KY,740,Business Operations Specialists,2590,Manufacturing,2500,Non-CHSS Degree
+,,2411,Geological and Geophysical Engineering,99,State not identified,17460,Cleveland-Elyria  OH,800,Finacial Specialists,2670,Manufacturing,2501,Non-CHSS Degree
+,,2412,Industrial and Manufacturing Engineering,,,17660,Coeur d'Alene  ID,810,Finacial Specialists,2680,Manufacturing,2502,Non-CHSS Degree
+,,2413,Materials Engineering and Materials Science,,,17780,College Station-Bryan  TX,820,Finacial Specialists,2690,Manufacturing,2503,Non-CHSS Degree
+,,2414,Mechanical Engineering,,,17820,Colorado Springs  CO,830,Finacial Specialists,2770,Manufacturing,2504,Non-CHSS Degree
+,,2415,Metallurgical Engineering,,,17860,Columbia  MO,840,Finacial Specialists,2780,Manufacturing,2599,Non-CHSS Degree
+,,2416,Mining and Mineral Engineering,,,17900,Columbia  SC,850,Finacial Specialists,2790,Manufacturing,2901,Non-CHSS Degree
+,,2417,Naval Architecture and Marine Engineering,,,18140,Columbus  OH,860,Finacial Specialists,2870,Manufacturing,3401,Non-CHSS Degree
+,,2418,Nuclear Engineering,,,18580,Corpus Christi  TX,900,Finacial Specialists,2880,Manufacturing,3402,Non-CHSS Degree
+,,2419,Petroleum Engineering,,,19100,Dallas-Fort Worth-Arlington  TX,910,Finacial Specialists,2890,Manufacturing,3501,Non-CHSS Degree
+,,2499,Miscellaneous Engineering,,,19300,Daphne-Fairhope-Foley  AL,910,Finacial Specialists,2970,Manufacturing,3600,Non-CHSS Degree
+,,2500,Engineering Technologies,,,19340,Davenport-Moline-Rock Island  IA-IL,930,Finacial Specialists,2980,Manufacturing,3601,Non-CHSS Degree
+,,2501,Engineering and Industrial Management,,,19380,Dayton  OH,940,Finacial Specialists,2990,Manufacturing,3602,Non-CHSS Degree
+,,2502,Electrical Engineering Technology,,,19460,Decatur  AL,950,Finacial Specialists,3070,Manufacturing,3603,Non-CHSS Degree
+,,2503,Industrial Production Technologies,,,19500,Decatur  IL,1005,Computer and Mathematical Occupations,3080,Manufacturing,3604,Non-CHSS Degree
+,,2504,Mechanical Engineering Related Technologies,,,19660,Deltona-Daytona Beach-Ormond Beach  FL,1006,Computer and Mathematical Occupations,3095,Manufacturing,3605,Non-CHSS Degree
+,,2599,Miscellaneous Engineering Technologies,,,19740,Denver-Aurora-Lakewood  CO,1007,Computer and Mathematical Occupations,3170,Manufacturing,3606,Non-CHSS Degree
+,,2600,Linguistics and Foreign Languages,,,19780,Des Moines-West Des Moines  IA,1010,Computer and Mathematical Occupations,3180,Manufacturing,3607,Non-CHSS Degree
+,,2601,Linguistics and Comparative Language and Literature,,,19820,Detroit-Warren-Dearborn  MI,1020,Computer and Mathematical Occupations,3190,Manufacturing,3608,Non-CHSS Degree
+,,2602,French  German  Latin and Other Common Foreign Language Studies,,,20100,Dover  DE,1020,Computer and Mathematical Occupations,3290,Manufacturing,3608,Non-CHSS Degree
+,,2603,Other Foreign Languages,,,20500,Durham-Chapel Hill  NC,1030,Computer and Mathematical Occupations,3365,Manufacturing,3609,Non-CHSS Degree
+,,2901,Family and Consumer Sciences,,,20700,East Stroudsburg  PA,1060,Computer and Mathematical Occupations,3370,Manufacturing,3611,Non-CHSS Degree
+,,3200,Law,,,20740,Eau Claire  WI,1105,Computer and Mathematical Occupations,3380,Manufacturing,3699,Non-CHSS Degree
+,,3201,Court Reporting,,,20940,El Centro  CA,1106,Computer and Mathematical Occupations,3390,Manufacturing,3700,Non-CHSS Degree
+,,3202,Pre-Law and Legal Studies,,,21060,Elizabethtown-Fort Knox  KY,1050,Computer and Mathematical Occupations,3470,Manufacturing,3701,Non-CHSS Degree
+,,3300,English Language  Literature  and Composition,,,21140,Elkhart-Goshen  IN,1050,Computer and Mathematical Occupations,3490,Manufacturing,3702,Non-CHSS Degree
+,,3301,English Language and Literature,,,21340,El Paso  TX,1107,Computer and Mathematical Occupations,3570,Manufacturing,3801,Non-CHSS Degree
+,,3302,Composition and Speech,,,21500,Erie  PA,1200,Computer and Mathematical Occupations,3580,Manufacturing,4000,Non-CHSS Degree
+,,3400,Liberal Arts and Humanities,,,21660,Eugene  OR,1240,Computer and Mathematical Occupations,3590,Manufacturing,4002,Non-CHSS Degree
+,,3401,Liberal Arts,,,21780,Evansville  IN-KY,1220,Computer and Mathematical Occupations,3670,Manufacturing,4005,Non-CHSS Degree
+,,3402,Humanities,,,22140,Farmington  NM,1240,Computer and Mathematical Occupations,3680,Manufacturing,4007,Non-CHSS Degree
+,,3501,Library Science,,,22180,Fayetteville  NC,1240,Computer and Mathematical Occupations,3690,Manufacturing,4101,Non-CHSS Degree
+,,3600,Biology,,,22220,Fayetteville-Springdale-Rogers  AR-MO,1240,Computer and Mathematical Occupations,3770,Manufacturing,5000,Non-CHSS Degree
+,,3601,Biochemical Sciences,,,22380,Flagstaff  AZ,1300,Architecture and Engineering,3780,Manufacturing,5001,Non-CHSS Degree
+,,3602,Botany,,,22420,Flint  MI,1300,Architecture and Engineering,3790,Manufacturing,5002,Non-CHSS Degree
+,,3603,Molecular Biology,,,22500,Florence  SC,1310,Architecture and Engineering,3875,Manufacturing,5003,Non-CHSS Degree
+,,3604,Ecology,,,22520,Florence-Muscle Shoals  AL,1310,Architecture and Engineering,3895,Manufacturing,5004,Non-CHSS Degree
+,,3605,Genetics,,,22660,Fort Collins  CO,1320,Architecture and Engineering,3960,Manufacturing,5005,Non-CHSS Degree
+,,3606,Microbiology,,,23060,Fort Wayne  IN,1340,Architecture and Engineering,3970,Manufacturing,5006,Non-CHSS Degree
+,,3607,Pharmacology,,,23420,Fresno  CA,1340,Architecture and Engineering,3980,Manufacturing,5007,Non-CHSS Degree
+,,3608,Physiology,,,23460,Gadsden  AL,1350,Architecture and Engineering,3990,Manufacturing,5008,Non-CHSS Degree
+,,3609,Zoology,,,23540,Gainesville  FL,1360,Architecture and Engineering,4070,Wholesale Trade,5098,Non-CHSS Degree
+,,3611,Neuroscience,,,23580,Gainesville  GA,1400,Architecture and Engineering,4080,Wholesale Trade,5102,Non-CHSS Degree
+,,3699,Miscellaneous Biology,,,24020,Glens Falls  NY,1410,Architecture and Engineering,4090,Wholesale Trade,5401,Non-CHSS Degree
+,,3700,Mathematics,,,24140,Goldsboro  NC,1410,Architecture and Engineering,4170,Wholesale Trade,5402,Non-CHSS Degree
+,,3701,Applied Mathematics,,,24300,Grand Junction  CO,1420,Architecture and Engineering,4180,Wholesale Trade,5403,Non-CHSS Degree
+,,3702,Statistics and Decision Science,,,24340,Grand Rapids-Wyoming  MI,1430,Architecture and Engineering,4195,Wholesale Trade,5404,Non-CHSS Degree
+,,3801,Military Technologies,,,24540,Greeley  CO,1430,Architecture and Engineering,4265,Wholesale Trade,5500,Non-CHSS Degree
+,,4000,Interdisciplinary and Multi-Disciplinary Studies (General),,,24660,Greensboro-High Point  NC,1440,Architecture and Engineering,4270,Wholesale Trade,5504,Non-CHSS Degree
+,,4001,Intercultural and International Studies,,,24780,Greenville  NC,1450,Architecture and Engineering,4280,Wholesale Trade,5505,Non-CHSS Degree
+,,4002,Nutrition Sciences,,,24860,Greenville-Anderson-Mauldin  SC,1460,Architecture and Engineering,4290,Wholesale Trade,5506,Non-CHSS Degree
+,,4003,Neuroscience,,,25060,Gulfport-Biloxi-Pascagoula  MS,1520,Architecture and Engineering,4370,Wholesale Trade,5599,Non-CHSS Degree
+,,4005,Mathematics and Computer Science,,,25220,Hammond  LA,1530,Architecture and Engineering,4380,Wholesale Trade,5601,Non-CHSS Degree
+,,4006,Cognitive Science and Biopsychology,,,25260,Hanford-Corcoran  CA,1520,Architecture and Engineering,4390,Wholesale Trade,5701,Non-CHSS Degree
+,,4007,Interdisciplinary Social Sciences,,,25420,Harrisburg-Carlisle  PA,1530,Architecture and Engineering,4470,Wholesale Trade,5901,Non-CHSS Degree
+,,4008,Multi-disciplinary or General Science,,,25500,Harrisonburg  VA,1540,Architecture and Engineering,4480,Wholesale Trade,6000,Non-CHSS Degree
+,,4101,Physical Fitness  Parks  Recreation  and Leisure,,,25540,Hartford-West Hartford-East Hartford  CT,1540,Architecture and Engineering,4490,Wholesale Trade,6001,Non-CHSS Degree
+,,4801,Philosophy and Religious Studies,,,25620,Hattiesburg  MS,1540,Architecture and Engineering,4560,Wholesale Trade,6002,Non-CHSS Degree
+,,4901,Theology and Religious Vocations,,,25860,Hickory-Lenoir-Morganton  NC,1540,Architecture and Engineering,4570,Wholesale Trade,6003,Non-CHSS Degree
+,,5000,Physical Sciences,,,25940,Hilton Head Island-Bluffton-Beaufort  SC,1550,Architecture and Engineering,4580,Wholesale Trade,6004,Non-CHSS Degree
+,,5001,Astronomy and Astrophysics,,,26140,Homosassa Springs  FL,1550,Architecture and Engineering,4585,Wholesale Trade,6005,Non-CHSS Degree
+,,5002,Atmospheric Sciences and Meteorology,,,26380,Houma-Thibodaux  LA,1550,Architecture and Engineering,4590,Wholesale Trade,6007,Non-CHSS Degree
+,,5003,Chemistry,,,26420,Houston-The Woodlands-Sugar Land  TX,1550,Architecture and Engineering,4670,Retail Trade,6099,Non-CHSS Degree
+,,5004,Geology and Earth Science,,,26620,Huntsville  AL,1550,Architecture and Engineering,4680,Retail Trade,6100,Non-CHSS Degree
+,,5005,Geosciences,,,26900,Indianapolis-Carmel-Anderson  IN,1550,Architecture and Engineering,4690,Retail Trade,6102,Non-CHSS Degree
+,,5006,Oceanography,,,26980,Iowa City  IA,1550,Architecture and Engineering,4770,Retail Trade,6103,Non-CHSS Degree
+,,5007,Physics,,,27060,Ithaca  NY,1550,Architecture and Engineering,4780,Retail Trade,6104,Non-CHSS Degree
+,,5008,Materials Science,,,27100,Jackson  MI,1560,Architecture and Engineering,4795,Retail Trade,6105,Non-CHSS Degree
+,,5098,Multi-disciplinary or General Science,,,27140,Jackson  MS,1600,Science Occupations (Physical and Social),4870,Retail Trade,6106,Non-CHSS Degree
+,,5102,Nuclear  Industrial Radiology  and Biological Technologies,,,27180,Jackson  TN,1600,Science Occupations (Physical and Social),4880,Retail Trade,6107,Non-CHSS Degree
+,,5200,Psychology,,,27260,Jacksonville  FL,1600,Science Occupations (Physical and Social),4890,Retail Trade,6108,Non-CHSS Degree
+,,5201,Educational Psychology,,,27340,Jacksonville  NC,1610,Science Occupations (Physical and Social),4970,Retail Trade,6109,Non-CHSS Degree
+,,5202,Clinical Psychology,,,27500,Janesville-Beloit  WI,1610,Science Occupations (Physical and Social),4980,Retail Trade,6110,Non-CHSS Degree
+,,5203,Counseling Psychology,,,27620,Jefferson City  MO,1610,Science Occupations (Physical and Social),4990,Retail Trade,6199,Non-CHSS Degree
+,,5205,Industrial and Organizational Psychology,,,27780,Johnstown  PA,1610,Science Occupations (Physical and Social),5070,Retail Trade,6200,Non-CHSS Degree
+,,5206,Social Psychology,,,27900,Joplin  MO,1640,Science Occupations (Physical and Social),5080,Retail Trade,6201,Non-CHSS Degree
+,,5299,Miscellaneous Psychology,,,28020,Kalamazoo-Portage  MI,1640,Science Occupations (Physical and Social),5090,Retail Trade,6202,Non-CHSS Degree
+,,5301,Criminal Justice and Fire Protection,,,28100,Kankakee  IL,1650,Science Occupations (Physical and Social),5170,Retail Trade,6203,Non-CHSS Degree
+,,5400,Public Affairs  Policy  and Social Work,,,28140,Kansas City  MO-KS,1650,Science Occupations (Physical and Social),5180,Retail Trade,6204,Non-CHSS Degree
+,,5401,Public Administration,,,28420,Kennewick-Richland  WA,1650,Science Occupations (Physical and Social),5190,Retail Trade,6206,Non-CHSS Degree
+,,5402,Public Policy,,,28660,Killeen-Temple  TX,1700,Science Occupations (Physical and Social),5275,Retail Trade,6207,Non-CHSS Degree
+,,5403,Human Services and Community Organization,,,28700,Kingsport-Bristol-Bristol  TN-VA,1700,Science Occupations (Physical and Social),5280,Retail Trade,6209,Non-CHSS Degree
+,,5404,Social Work,,,28940,Knoxville  TN,1710,Science Occupations (Physical and Social),5295,Retail Trade,6210,Non-CHSS Degree
+,,5500,General Social Sciences,,,29100,La Crosse-Onalaska  WI-MN,1720,Science Occupations (Physical and Social),5370,Retail Trade,6211,Non-CHSS Degree
+,,5501,Economics,,,29180,Lafayette  LA,1720,Science Occupations (Physical and Social),5380,Retail Trade,6212,Non-CHSS Degree
+,,5502,Anthropology and Archeology,,,29200,Lafayette-West Lafayette  IN,1740,Science Occupations (Physical and Social),5390,Retail Trade,6299,Non-CHSS Degree
+,,5503,Criminology,,,29340,Lake Charles  LA,1740,Science Occupations (Physical and Social),5470,Retail Trade,5502,CHSS Degree
+,,5504,Geography,,,29420,Lake Havasu City-Kingman  AZ,1740,Science Occupations (Physical and Social),5480,Retail Trade,1501,CHSS Degree
+,,5505,International Relations,,,29460,Lakeland-Winter Haven  FL,1760,Science Occupations (Physical and Social),5490,Retail Trade,6006,CHSS Degree
+,,5506,Political Science and Government,,,29540,Lancaster  PA,1800,Science Occupations (Physical and Social),5570,Retail Trade,1901,CHSS Degree
+,,5507,Sociology,,,29620,Lansing-East Lansing  MI,1860,Science Occupations (Physical and Social),5580,Retail Trade,1902,CHSS Degree
+,,5599,Miscellaneous Social Sciences,,,29700,Laredo  TX,1820,Science Occupations (Physical and Social),5590,Retail Trade,1903,CHSS Degree
+,,5601,Construction Services,,,29740,Las Cruces  NM,1820,Science Occupations (Physical and Social),5591,Retail Trade,1904,CHSS Degree
+,,5701,Electrical and Mechanic Repairs and Technologies,,,29820,Las Vegas-Henderson-Paradise  NV,1820,Science Occupations (Physical and Social),5592,Retail Trade,5301,CHSS Degree
+,,5801,Precision Production and Industrial Arts,,,29940,Lawrence  KS,1860,Science Occupations (Physical and Social),5670,Retail Trade,5503,CHSS Degree
+,,5901,Transportation Sciences and Technologies,,,30140,Lebanon  PA,1840,Science Occupations (Physical and Social),5680,Retail Trade,3201,CHSS Degree
+,,6000,Fine Arts,,,30340,Lewiston-Auburn  ME,1860,Science Occupations (Physical and Social),5690,Retail Trade,3202,CHSS Degree
+,,6001,Drama and Theater Arts,,,30620,Lima  OH,1860,Science Occupations (Physical and Social),5790,Retail Trade,1102,CHSS Degree
+,,6002,Music,,,30700,Lincoln  NE,1860,Science Occupations (Physical and Social),6070,Transportation & Warehousing,5501,CHSS Degree
+,,6003,Visual and Performing Arts,,,30780,Little Rock-North Little Rock-Conway  AR,1860,Science Occupations (Physical and Social),6080,Transportation & Warehousing,6205,CHSS Degree
+,,6004,Commercial Art and Graphic Design,,,31080,Los Angeles-Long Beach-Anaheim  CA,1860,Science Occupations (Physical and Social),6090,Transportation & Warehousing,3301,CHSS Degree
+,,6005,Film  Video and Photographic Arts,,,31140,Louisville/Jefferson County  KY-IN,1900,Science Occupations (Physical and Social),6170,Transportation & Warehousing,3302,CHSS Degree
+,,6006,Art History and Criticism,,,31180,Lubbock  TX,1910,Science Occupations (Physical and Social),6180,Transportation & Warehousing,1301,CHSS Degree
+,,6007,Studio Arts,,,31340,Lynchburg  VA,1920,Science Occupations (Physical and Social),6190,Transportation & Warehousing,1303,CHSS Degree
+,,6099,Miscellaneous Fine Arts,,,31460,Madera  CA,1930,Science Occupations (Physical and Social),6270,Transportation & Warehousing,6402,CHSS Degree
+,,6100,General Medical and Health Services,,,31700,Manchester-Nashua  NH,1930,Science Occupations (Physical and Social),6280,Transportation & Warehousing,6403,CHSS Degree
+,,6102,Communication Disorders Sciences and Services,,,31900,Mansfield  OH,1965,Science Occupations (Physical and Social),6290,Transportation & Warehousing,4001,CHSS Degree
+,,6103,Health and Medical Administrative Services,,,32420,Mayagüez  PR,1965,Science Occupations (Physical and Social),6370,Transportation & Warehousing,2601,CHSS Degree
+,,6104,Medical Assisting Services,,,32580,McAllen-Edinburg-Mission  TX,1965,Science Occupations (Physical and Social),6380,Transportation & Warehousing,2602,CHSS Degree
+,,6105,Medical Technologies Technicians,,,32780,Medford  OR,1965,Science Occupations (Physical and Social),6390,Transportation & Warehousing,2603,CHSS Degree
+,,6106,Health and Medical Preparatory Programs,,,32820,Memphis  TN-MS-AR,1965,Science Occupations (Physical and Social),570,Utilities,4801,CHSS Degree
+,,6107,Nursing,,,32900,Merced  CA,2000,Community and Social Services,580,Utilities,4901,CHSS Degree
+,,6108,Pharmacy  Pharmaceutical Sciences  and Administration,,,33100,Miami-Fort Lauderdale-West Palm Beach  FL,2000,Community and Social Services,590,Utilities,4006,CHSS Degree
+,,6109,Treatment Therapy Professions,,,33140,Michigan City-La Porte  IN,2000,Community and Social Services,670,Utilities,5200,CHSS Degree
+,,6110,Community and Public Health,,,33260,Midland  TX,2000,Community and Social Services,680,Utilities,5201,CHSS Degree
+,,6199,Miscellaneous Health Medical Professions,,,33340,Milwaukee-Waukesha-West Allis  WI,2000,Community and Social Services,690,Utilities,5202,CHSS Degree
+,,6200,General Business,,,33460,Minneapolis-St. Paul-Bloomington  MN-WI,2000,Community and Social Services,6470,Information Sectors,5203,CHSS Degree
+,,6201,Accounting,,,33660,Mobile  AL,2010,Community and Social Services,6480,Information Sectors,5205,CHSS Degree
+,,6202,Actuarial Science,,,33700,Modesto  CA,2010,Community and Social Services,6490,Information Sectors,5206,CHSS Degree
+,,6203,Business Management and Administration,,,33740,Monroe  LA,2010,Community and Social Services,6570,Information Sectors,5299,CHSS Degree
+,,6204,Operations  Logistics and E-Commerce,,,33780,Monroe  MI,2010,Community and Social Services,6590,Information Sectors,5507,CHSS Degree
+,,6205,Business Economics,,,33860,Montgomery  AL,2025,Community and Social Services,6670,Information Sectors,0,No Degree
+,,6206,Marketing and Marketing Research,,,34060,Morgantown  WV,2015,Community and Social Services,6672,Information Sectors,,
+,,6207,Finance,,,34620,Muncie  IN,2016,Community and Social Services,6680,Information Sectors,,
+,,6209,Human Resources and Personnel Management,,,34740,Muskegon  MI,2025,Community and Social Services,6690,Information Sectors,,
+,,6210,International Business,,,34820,Myrtle Beach-Conway-North Myrtle Beach  SC-NC,2025,Community and Social Services,6695,Information Sectors,,
+,,6211,Hospitality Management,,,34900,Napa  CA,2040,Community and Social Services,6770,Information Sectors,,
+,,6212,Management Information Systems and Statistics,,,34940,Naples-Immokalee-Marco Island  FL,2050,Community and Social Services,6780,Information Sectors,,
+,,6299,Miscellaneous Business and Medical Administration,,,34980,Nashville-Davidson--Murfreesboro--Franklin  TN,2060,Community and Social Services,6870,Finance & Insurance,,
+,,6402,History,,,35300,New Haven-Milford  CT,2100,Legal Occupations,6880,Finance & Insurance,,
+,,6403,United States History,,,35380,New Orleans-Metairie  LA,2105,Legal Occupations,6890,Finance & Insurance,,
+,,,,,,35620,New York-Newark-Jersey City  NY-NJ-PA,2100,Legal Occupations,6970,Finance & Insurance,,
+,,,,,,35660,Niles-Benton Harbor  MI,2100,Legal Occupations,6990,Finance & Insurance,,
+,,,,,,35840,North Port-Sarasota-Bradenton  FL,2100,Legal Occupations,7070,Real Estate,,
+,,,,,,35980,Norwich-New London  CT,2145,Legal Occupations,7080,Real Estate,,
+,,,,,,36100,Ocala  FL,2160,Legal Occupations,7170,Real Estate,,
+,,,,,,36140,Ocean City  NJ,2160,Legal Occupations,7180,Real Estate,,
+,,,,,,36220,Odessa  TX,2160,Legal Occupations,7190,Real Estate,,
+,,,,,,36260,Ogden-Clearfield  UT,2200,Education  Library  and Training Occupations,7270,Professional  Scientific  and Technical Services,,
+,,,,,,36420,Oklahoma City  OK,2200,Education  Library  and Training Occupations,7280,Professional  Scientific  and Technical Services,,
+,,,,,,36500,Olympia-Tumwater  WA,2200,Education  Library  and Training Occupations,7290,Professional  Scientific  and Technical Services,,
+,,,,,,36540,Omaha-Council Bluffs  NE-IA,2200,Education  Library  and Training Occupations,7370,Professional  Scientific  and Technical Services,,
+,,,,,,36740,Orlando-Kissimmee-Sanford  FL,2200,Education  Library  and Training Occupations,7380,Professional  Scientific  and Technical Services,,
+,,,,,,36780,Oshkosh-Neenah  WI,2200,Education  Library  and Training Occupations,7390,Professional  Scientific  and Technical Services,,
+,,,,,,36980,Owensboro  KY,2200,Education  Library  and Training Occupations,7460,Professional  Scientific  and Technical Services,,
+,,,,,,37100,Oxnard-Thousand Oaks-Ventura  CA,2200,Education  Library  and Training Occupations,7470,Professional  Scientific  and Technical Services,,
+,,,,,,37340,Palm Bay-Melbourne-Titusville  FL,2200,Education  Library  and Training Occupations,7480,Professional  Scientific  and Technical Services,,
+,,,,,,37460,Panama City  FL,2200,Education  Library  and Training Occupations,7490,Professional  Scientific  and Technical Services,,
+,,,,,,37620,Parkersburg-Vienna  WV,2200,Education  Library  and Training Occupations,7570,Mangement of Companies & Enterprises,,
+,,,,,,37860,Pensacola-Ferry Pass-Brent  FL,2200,Education  Library  and Training Occupations,7580,Administrative  Support  and Waste Management Services,,
+,,,,,,37900,Peoria  IL,2200,Education  Library  and Training Occupations,7590,Administrative  Support  and Waste Management Services,,
+,,,,,,37980,Philadelphia-Camden-Wilmington  PA-NJ-DE-MD,2200,Education  Library  and Training Occupations,7670,Administrative  Support  and Waste Management Services,,
+,,,,,,38060,Phoenix-Mesa-Scottsdale  AZ,2200,Education  Library  and Training Occupations,7680,Administrative  Support  and Waste Management Services,,
+,,,,,,38300,Pittsburgh  PA,2200,Education  Library  and Training Occupations,7690,Administrative  Support  and Waste Management Services,,
+,,,,,,38340,Pittsfield  MA,2200,Education  Library  and Training Occupations,7770,Administrative  Support  and Waste Management Services,,
+,,,,,,38660,Ponce  PR,2200,Education  Library  and Training Occupations,7780,Administrative  Support  and Waste Management Services,,
+,,,,,,38860,Portland-South Portland  ME,2200,Education  Library  and Training Occupations,7790,Administrative  Support  and Waste Management Services,,
+,,,,,,38900,Portland-Vancouver-Hillsboro  OR-WA,2200,Education  Library  and Training Occupations,7860,Educational Services,,
+,,,,,,38940,Port St. Lucie  FL,2200,Education  Library  and Training Occupations,7870,Educational Services,,
+,,,,,,39140,Prescott  AZ,2200,Education  Library  and Training Occupations,7880,Educational Services,,
+,,,,,,39300,Providence-Warwick  RI-MA,2200,Education  Library  and Training Occupations,7890,Educational Services,,
+,,,,,,39340,Provo-Orem  UT,2200,Education  Library  and Training Occupations,7970,Health Care & Social Assistance,,
+,,,,,,39380,Pueblo  CO,2200,Education  Library  and Training Occupations,7980,Health Care & Social Assistance,,
+,,,,,,39460,Punta Gorda  FL,2200,Education  Library  and Training Occupations,7990,Health Care & Social Assistance,,
+,,,,,,39540,Racine  WI,2200,Education  Library  and Training Occupations,8070,Health Care & Social Assistance,,
+,,,,,,39580,Raleigh  NC,2200,Education  Library  and Training Occupations,8080,Health Care & Social Assistance,,
+,,,,,,39740,Reading  PA,2200,Education  Library  and Training Occupations,8090,Health Care & Social Assistance,,
+,,,,,,39820,Redding  CA,2200,Education  Library  and Training Occupations,8170,Health Care & Social Assistance,,
+,,,,,,39900,Reno  NV,2200,Education  Library  and Training Occupations,8180,Health Care & Social Assistance,,
+,,,,,,40060,Richmond  VA,2200,Education  Library  and Training Occupations,8190,Health Care & Social Assistance,,
+,,,,,,40140,Riverside-San Bernardino-Ontario  CA,2200,Education  Library  and Training Occupations,8270,Health Care & Social Assistance,,
+,,,,,,40220,Roanoke  VA,2200,Education  Library  and Training Occupations,8290,Health Care & Social Assistance,,
+,,,,,,40380,Rochester  NY,2200,Education  Library  and Training Occupations,8370,Health Care & Social Assistance,,
+,,,,,,40420,Rockford  IL,2200,Education  Library  and Training Occupations,8380,Health Care & Social Assistance,,
+,,,,,,40580,Rocky Mount  NC,2200,Education  Library  and Training Occupations,8390,Health Care & Social Assistance,,
+,,,,,,40900,Sacramento--Roseville--Arden-Arcade  CA,2200,Education  Library  and Training Occupations,8470,Health Care & Social Assistance,,
+,,,,,,40980,Saginaw  MI,2300,Education  Library  and Training Occupations,8560,Arts  Entertainment  and Sports,,
+,,,,,,41060,St. Cloud  MN,2300,Education  Library  and Training Occupations,8570,Arts  Entertainment  and Sports,,
+,,,,,,41100,St. George  UT,2310,Education  Library  and Training Occupations,8580,Arts  Entertainment  and Sports,,
+,,,,,,41140,St. Joseph  MO-KS,2310,Education  Library  and Training Occupations,8590,Arts  Entertainment  and Sports,,
+,,,,,,41180,St. Louis  MO-IL,2310,Education  Library  and Training Occupations,8660,Food & Accomodation Services,,
+,,,,,,41500,Salinas  CA,2320,Education  Library  and Training Occupations,8670,Food & Accomodation Services,,
+,,,,,,41540,Salisbury  MD-DE,2320,Education  Library  and Training Occupations,8680,Food & Accomodation Services,,
+,,,,,,41620,Salt Lake City  UT,2330,Education  Library  and Training Occupations,8690,Food & Accomodation Services,,
+,,,,,,41660,San Angelo  TX,2330,Education  Library  and Training Occupations,8770,Miscellaneous Services,,
+,,,,,,41700,San Antonio-New Braunfels  TX,2330,Education  Library  and Training Occupations,8780,Miscellaneous Services,,
+,,,,,,41740,San Diego-Carlsbad  CA,2330,Education  Library  and Training Occupations,8790,Miscellaneous Services,,
+,,,,,,41860,San Francisco-Oakland-Hayward  CA,2330,Education  Library  and Training Occupations,8870,Miscellaneous Services,,
+,,,,,,41900,San Germán  PR,2340,Education  Library  and Training Occupations,8880,Miscellaneous Services,,
+,,,,,,41940,San Jose-Sunnyvale-Santa Clara  CA,2340,Education  Library  and Training Occupations,8890,Miscellaneous Services,,
+,,,,,,41980,San Juan-Carolina-Caguas  PR,2340,Education  Library  and Training Occupations,8970,Miscellaneous Services,,
+,,,,,,42020,San Luis Obispo-Paso Robles-Arroyo Grande  CA,2400,Education  Library  and Training Occupations,8980,Miscellaneous Services,,
+,,,,,,42100,Santa Cruz-Watsonville  CA,2400,Education  Library  and Training Occupations,8990,Miscellaneous Services,,
+,,,,,,42140,Santa Fe  NM,2400,Education  Library  and Training Occupations,9070,Miscellaneous Services,,
+,,,,,,42200,Santa Maria-Santa Barbara  CA,2430,Education  Library  and Training Occupations,9080,Miscellaneous Services,,
+,,,,,,42220,Santa Rosa  CA,2440,Education  Library  and Training Occupations,9090,Miscellaneous Services,,
+,,,,,,42540,Scranton--Wilkes-Barre--Hazleton  PA,2550,Education  Library  and Training Occupations,9160,Miscellaneous Services,,
+,,,,,,42660,Seattle-Tacoma-Bellevue  WA,2550,Education  Library  and Training Occupations,9170,Miscellaneous Services,,
+,,,,,,42680,Sebastian-Vero Beach  FL,2550,Education  Library  and Training Occupations,9180,Miscellaneous Services,,
+,,,,,,43100,Sheboygan  WI,2540,Education  Library  and Training Occupations,9190,Miscellaneous Services,,
+,,,,,,43340,Shreveport-Bossier City  LA,2550,Education  Library  and Training Occupations,9290,Miscellaneous Services,,
+,,,,,,43900,Spartanburg  SC,2600,Art  Design  Entertainment  Sports  and Media,9370,Public Administration,,
+,,,,,,44060,Spokane-Spokane Valley  WA,2600,Art  Design  Entertainment  Sports  and Media,9380,Public Administration,,
+,,,,,,44100,Springfield  IL,2600,Art  Design  Entertainment  Sports  and Media,9390,Public Administration,,
+,,,,,,44140,Springfield  MA,2600,Art  Design  Entertainment  Sports  and Media,9470,Public Administration,,
+,,,,,,44180,Springfield  MO,2600,Art  Design  Entertainment  Sports  and Media,9480,Public Administration,,
+,,,,,,44220,Springfield  OH,2630,Art  Design  Entertainment  Sports  and Media,9490,Public Administration,,
+,,,,,,44300,State College  PA,2630,Art  Design  Entertainment  Sports  and Media,9570,Public Administration,,
+,,,,,,44700,Stockton-Lodi  CA,2630,Art  Design  Entertainment  Sports  and Media,9590,Public Administration,,
+,,,,,,44940,Sumter  SC,2630,Art  Design  Entertainment  Sports  and Media,9670,Military,,
+,,,,,,45060,Syracuse  NY,2630,Art  Design  Entertainment  Sports  and Media,9680,Military,,
+,,,,,,45220,Tallahassee  FL,2630,Art  Design  Entertainment  Sports  and Media,9690,Military,,
+,,,,,,45300,Tampa-St. Petersburg-Clearwater  FL,2630,Art  Design  Entertainment  Sports  and Media,9770,Military,,
+,,,,,,45460,Terre Haute  IN,2630,Art  Design  Entertainment  Sports  and Media,9780,Military,,
+,,,,,,45780,Toledo  OH,2700,Art  Design  Entertainment  Sports  and Media,9790,Military,,
+,,,,,,45820,Topeka  KS,2710,Art  Design  Entertainment  Sports  and Media,9870,Military,,
+,,,,,,45940,Trenton  NJ,2720,Art  Design  Entertainment  Sports  and Media,9920,Unemployed,,
+,,,,,,46060,Tucson  AZ,2720,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,46220,Tuscaloosa  AL,2720,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,46340,Tyler  TX,2740,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,46520,Urban Honolulu  HI,2740,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,46540,Utica-Rome  NY,2750,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,46660,Valdosta  GA,2750,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,46700,Vallejo-Fairfield  CA,2760,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,47220,Vineland-Bridgeton  NJ,2800,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,47260,Virginia Beach-Norfolk-Newport News  VA-NC,2800,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,47300,Visalia-Porterville  CA,2810,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,47380,Waco  TX,2810,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,47900,Washington-Arlington-Alexandria  DC-VA-MD-WV,2825,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,48140,Wausau  WI,2830,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,48300,Wenatchee  WA,2840,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,48620,Wichita  KS,2850,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,48660,Wichita Falls  TX,2860,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,48700,Williamsport  PA,2860,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,48900,Wilmington  NC,2900,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,49180,Winston-Salem  NC,2900,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,49340,Worcester  MA-CT,2900,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,49420,Yakima  WA,2900,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,49620,York-Hanover  PA,2910,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,49660,Youngstown-Warren-Boardman  OH-PA,2920,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,49700,Yuba City  CA,2920,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,49740,Yuma  AZ,2900,Art  Design  Entertainment  Sports  and Media,,,,
+,,,,,,,,3000,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3010,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3010,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3010,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3010,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3010,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3030,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3040,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3050,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3060,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3110,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3120,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3150,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3160,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3200,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3210,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3220,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3230,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3245,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3245,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3250,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3255,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3256,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3258,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3258,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3140,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3260,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3300,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3300,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3310,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3320,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3320,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3320,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3320,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3320,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3400,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3420,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3420,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3420,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3420,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3420,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3420,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3420,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3500,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3510,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3520,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3535,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3535,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3535,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3540,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3540,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3540,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3540,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3540,Healthcare Practitioners and Technicians,,,,
+,,,,,,,,3600,Healthcare Support Occupations,,,,
+,,,,,,,,3600,Healthcare Support Occupations,,,,
+,,,,,,,,3600,Healthcare Support Occupations,,,,
+,,,,,,,,3600,Healthcare Support Occupations,,,,
+,,,,,,,,3610,Healthcare Support Occupations,,,,
+,,,,,,,,3610,Healthcare Support Occupations,,,,
+,,,,,,,,3620,Healthcare Support Occupations,,,,
+,,,,,,,,3620,Healthcare Support Occupations,,,,
+,,,,,,,,3630,Healthcare Support Occupations,,,,
+,,,,,,,,3640,Healthcare Support Occupations,,,,
+,,,,,,,,3645,Healthcare Support Occupations,,,,
+,,,,,,,,3655,Healthcare Support Occupations,,,,
+,,,,,,,,3646,Healthcare Support Occupations,,,,
+,,,,,,,,3647,Healthcare Support Occupations,,,,
+,,,,,,,,3648,Healthcare Support Occupations,,,,
+,,,,,,,,3649,Healthcare Support Occupations,,,,
+,,,,,,,,3655,Healthcare Support Occupations,,,,
+,,,,,,,,3700,Protective Services,,,,
+,,,,,,,,3710,Protective Services,,,,
+,,,,,,,,3720,Protective Services,,,,
+,,,,,,,,3730,Protective Services,,,,
+,,,,,,,,3740,Protective Services,,,,
+,,,,,,,,3750,Protective Services,,,,
+,,,,,,,,3750,Protective Services,,,,
+,,,,,,,,3800,Protective Services,,,,
+,,,,,,,,3800,Protective Services,,,,
+,,,,,,,,3820,Protective Services,,,,
+,,,,,,,,3840,Protective Services,,,,
+,,,,,,,,3840,Protective Services,,,,
+,,,,,,,,3850,Protective Services,,,,
+,,,,,,,,3850,Protective Services,,,,
+,,,,,,,,3900,Protective Services,,,,
+,,,,,,,,3910,Protective Services,,,,
+,,,,,,,,3930,Protective Services,,,,
+,,,,,,,,3930,Protective Services,,,,
+,,,,,,,,3940,Protective Services,,,,
+,,,,,,,,3955,Protective Services,,,,
+,,,,,,,,3945,Protective Services,,,,
+,,,,,,,,3950,Protective Services,,,,
+,,,,,,,,4000,Food Preparation and Serving,,,,
+,,,,,,,,4010,Food Preparation and Serving,,,,
+,,,,,,,,4020,Food Preparation and Serving,,,,
+,,,,,,,,4020,Food Preparation and Serving,,,,
+,,,,,,,,4020,Food Preparation and Serving,,,,
+,,,,,,,,4020,Food Preparation and Serving,,,,
+,,,,,,,,4020,Food Preparation and Serving,,,,
+,,,,,,,,4020,Food Preparation and Serving,,,,
+,,,,,,,,4030,Food Preparation and Serving,,,,
+,,,,,,,,4040,Food Preparation and Serving,,,,
+,,,,,,,,4050,Food Preparation and Serving,,,,
+,,,,,,,,4060,Food Preparation and Serving,,,,
+,,,,,,,,4110,Food Preparation and Serving,,,,
+,,,,,,,,4120,Food Preparation and Serving,,,,
+,,,,,,,,4130,Food Preparation and Serving,,,,
+,,,,,,,,4140,Food Preparation and Serving,,,,
+,,,,,,,,4150,Food Preparation and Serving,,,,
+,,,,,,,,4130,Food Preparation and Serving,,,,
+,,,,,,,,4200,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4210,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4220,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4230,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4220,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4240,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4250,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4250,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4250,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4250,Builing/Ground Maintenance and Cleaning,,,,
+,,,,,,,,4300,Personal Care and Service,,,,
+,,,,,,,,4300,Personal Care and Service,,,,
+,,,,,,,,4320,Personal Care and Service,,,,
+,,,,,,,,4340,Personal Care and Service,,,,
+,,,,,,,,4350,Personal Care and Service,,,,
+,,,,,,,,4400,Personal Care and Service,,,,
+,,,,,,,,4400,Personal Care and Service,,,,
+,,,,,,,,4400,Personal Care and Service,,,,
+,,,,,,,,4410,Personal Care and Service,,,,
+,,,,,,,,4420,Personal Care and Service,,,,
+,,,,,,,,4430,Personal Care and Service,,,,
+,,,,,,,,4430,Personal Care and Service,,,,
+,,,,,,,,4430,Personal Care and Service,,,,
+,,,,,,,,4430,Personal Care and Service,,,,
+,,,,,,,,4460,Personal Care and Service,,,,
+,,,,,,,,4460,Personal Care and Service,,,,
+,,,,,,,,4465,Personal Care and Service,,,,
+,,,,,,,,4500,Personal Care and Service,,,,
+,,,,,,,,4510,Personal Care and Service,,,,
+,,,,,,,,4520,Personal Care and Service,,,,
+,,,,,,,,4520,Personal Care and Service,,,,
+,,,,,,,,4520,Personal Care and Service,,,,
+,,,,,,,,4520,Personal Care and Service,,,,
+,,,,,,,,4530,Personal Care and Service,,,,
+,,,,,,,,4530,Personal Care and Service,,,,
+,,,,,,,,4540,Personal Care and Service,,,,
+,,,,,,,,4540,Personal Care and Service,,,,
+,,,,,,,,4600,Personal Care and Service,,,,
+,,,,,,,,4610,Personal Care and Service,,,,
+,,,,,,,,4620,Personal Care and Service,,,,
+,,,,,,,,4620,Personal Care and Service,,,,
+,,,,,,,,4640,Personal Care and Service,,,,
+,,,,,,,,4650,Personal Care and Service,,,,
+,,,,,,,,4700,Sales,,,,
+,,,,,,,,4710,Sales,,,,
+,,,,,,,,4720,Sales,,,,
+,,,,,,,,4720,Sales,,,,
+,,,,,,,,4740,Sales,,,,
+,,,,,,,,4750,Sales,,,,
+,,,,,,,,4760,Sales,,,,
+,,,,,,,,4800,Sales,,,,
+,,,,,,,,4810,Sales,,,,
+,,,,,,,,4820,Sales,,,,
+,,,,,,,,4830,Sales,,,,
+,,,,,,,,4840,Sales,,,,
+,,,,,,,,4850,Sales,,,,
+,,,,,,,,4850,Sales,,,,
+,,,,,,,,4900,Sales,,,,
+,,,,,,,,4900,Sales,,,,
+,,,,,,,,4920,Sales,,,,
+,,,,,,,,4920,Sales,,,,
+,,,,,,,,4930,Sales,,,,
+,,,,,,,,4940,Sales,,,,
+,,,,,,,,4960,Sales,,,,
+,,,,,,,,4950,Sales,,,,
+,,,,,,,,4965,Sales,,,,
+,,,,,,,,5000,Office and Administrative Support,,,,
+,,,,,,,,5010,Office and Administrative Support,,,,
+,,,,,,,,5020,Office and Administrative Support,,,,
+,,,,,,,,5030,Office and Administrative Support,,,,
+,,,,,,,,5100,Office and Administrative Support,,,,
+,,,,,,,,5110,Office and Administrative Support,,,,
+,,,,,,,,5120,Office and Administrative Support,,,,
+,,,,,,,,5130,Office and Administrative Support,,,,
+,,,,,,,,5140,Office and Administrative Support,,,,
+,,,,,,,,5150,Office and Administrative Support,,,,
+,,,,,,,,5160,Office and Administrative Support,,,,
+,,,,,,,,5165,Office and Administrative Support,,,,
+,,,,,,,,5200,Office and Administrative Support,,,,
+,,,,,,,,5350,Office and Administrative Support,,,,
+,,,,,,,,5220,Office and Administrative Support,,,,
+,,,,,,,,5230,Office and Administrative Support,,,,
+,,,,,,,,5240,Office and Administrative Support,,,,
+,,,,,,,,5250,Office and Administrative Support,,,,
+,,,,,,,,5260,Office and Administrative Support,,,,
+,,,,,,,,5300,Office and Administrative Support,,,,
+,,,,,,,,5310,Office and Administrative Support,,,,
+,,,,,,,,5320,Office and Administrative Support,,,,
+,,,,,,,,5330,Office and Administrative Support,,,,
+,,,,,,,,5340,Office and Administrative Support,,,,
+,,,,,,,,5350,Office and Administrative Support,,,,
+,,,,,,,,5360,Office and Administrative Support,,,,
+,,,,,,,,5400,Office and Administrative Support,,,,
+,,,,,,,,5410,Office and Administrative Support,,,,
+,,,,,,,,5420,Office and Administrative Support,,,,
+,,,,,,,,5500,Office and Administrative Support,,,,
+,,,,,,,,5510,Office and Administrative Support,,,,
+,,,,,,,,5520,Office and Administrative Support,,,,
+,,,,,,,,5520,Office and Administrative Support,,,,
+,,,,,,,,5530,Office and Administrative Support,,,,
+,,,,,,,,5540,Office and Administrative Support,,,,
+,,,,,,,,5550,Office and Administrative Support,,,,
+,,,,,,,,5560,Office and Administrative Support,,,,
+,,,,,,,,5600,Office and Administrative Support,,,,
+,,,,,,,,5610,Office and Administrative Support,,,,
+,,,,,,,,5620,Office and Administrative Support,,,,
+,,,,,,,,5630,Office and Administrative Support,,,,
+,,,,,,,,5700,Office and Administrative Support,,,,
+,,,,,,,,5700,Office and Administrative Support,,,,
+,,,,,,,,5700,Office and Administrative Support,,,,
+,,,,,,,,5700,Office and Administrative Support,,,,
+,,,,,,,,5800,Office and Administrative Support,,,,
+,,,,,,,,5810,Office and Administrative Support,,,,
+,,,,,,,,5820,Office and Administrative Support,,,,
+,,,,,,,,5940,Office and Administrative Support,,,,
+,,,,,,,,5840,Office and Administrative Support,,,,
+,,,,,,,,5850,Office and Administrative Support,,,,
+,,,,,,,,5860,Office and Administrative Support,,,,
+,,,,,,,,5900,Office and Administrative Support,,,,
+,,,,,,,,5910,Office and Administrative Support,,,,
+,,,,,,,,5920,Office and Administrative Support,,,,
+,,,,,,,,5940,Office and Administrative Support,,,,
+,,,,,,,,6005,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6010,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6050,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6040,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6050,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6050,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6050,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6050,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6100,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6100,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6120,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6130,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6130,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6130,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6130,Farming  Fishing  and Forestry,,,,
+,,,,,,,,6200,Construction,,,,
+,,,,,,,,6210,Construction,,,,
+,,,,,,,,6220,Construction,,,,
+,,,,,,,,6220,Construction,,,,
+,,,,,,,,6230,Construction,,,,
+,,,,,,,,6240,Construction,,,,
+,,,,,,,,6240,Construction,,,,
+,,,,,,,,6240,Construction,,,,
+,,,,,,,,6240,Construction,,,,
+,,,,,,,,6250,Construction,,,,
+,,,,,,,,6250,Construction,,,,
+,,,,,,,,6260,Construction,,,,
+,,,,,,,,6300,Construction,,,,
+,,,,,,,,6320,Construction,,,,
+,,,,,,,,6320,Construction,,,,
+,,,,,,,,6330,Construction,,,,
+,,,,,,,,6330,Construction,,,,
+,,,,,,,,6355,Construction,,,,
+,,,,,,,,6360,Construction,,,,
+,,,,,,,,6400,Construction,,,,
+,,,,,,,,6400,Construction,,,,
+,,,,,,,,6420,Construction,,,,
+,,,,,,,,6420,Construction,,,,
+,,,,,,,,6440,Construction,,,,
+,,,,,,,,6440,Construction,,,,
+,,,,,,,,6460,Construction,,,,
+,,,,,,,,6220,Construction,,,,
+,,,,,,,,6515,Construction,,,,
+,,,,,,,,6520,Construction,,,,
+,,,,,,,,6530,Construction,,,,
+,,,,,,,,6765,Construction,,,,
+,,,,,,,,6600,Construction,,,,
+,,,,,,,,6600,Construction,,,,
+,,,,,,,,6600,Construction,,,,
+,,,,,,,,6600,Construction,,,,
+,,,,,,,,6600,Construction,,,,
+,,,,,,,,6600,Construction,,,,
+,,,,,,,,6600,Construction,,,,
+,,,,,,,,6660,Construction,,,,
+,,,,,,,,6700,Construction,,,,
+,,,,,,,,6710,Construction,,,,
+,,,,,,,,6720,Construction,,,,
+,,,,,,,,6730,Construction,,,,
+,,,,,,,,6740,Construction,,,,
+,,,,,,,,6765,Construction,,,,
+,,,,,,,,6765,Construction,,,,
+,,,,,,,,6765,Construction,,,,
+,,,,,,,,6800,Extraction,,,,
+,,,,,,,,6800,Extraction,,,,
+,,,,,,,,6800,Extraction,,,,
+,,,,,,,,6820,Extraction,,,,
+,,,,,,,,6830,Extraction,,,,
+,,,,,,,,6840,Extraction,,,,
+,,,,,,,,6840,Extraction,,,,
+,,,,,,,,6840,Extraction,,,,
+,,,,,,,,6940,Extraction,,,,
+,,,,,,,,6940,Extraction,,,,
+,,,,,,,,6800,Extraction,,,,
+,,,,,,,,6940,Extraction,,,,
+,,,,,,,,6940,Extraction,,,,
+,,,,,,,,7000,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7010,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7020,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7020,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7030,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7040,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7100,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7100,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7100,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7110,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7120,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7130,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7140,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7150,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7160,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7200,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7210,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7220,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7220,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7220,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7240,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7240,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7240,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7260,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7260,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7260,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7300,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7300,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7315,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7320,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7330,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7350,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7360,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7330,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7410,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7420,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7430,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7430,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7430,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7430,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7430,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7340,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7630,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7510,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7630,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7630,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7540,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7630,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7560,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7630,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7610,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7630,Installation  Maintenance  and Repair,,,,
+,,,,,,,,7700,Production,,,,
+,,,,,,,,7710,Production,,,,
+,,,,,,,,7720,Production,,,,
+,,,,,,,,7720,Production,,,,
+,,,,,,,,7720,Production,,,,
+,,,,,,,,7730,Production,,,,
+,,,,,,,,7740,Production,,,,
+,,,,,,,,7750,Production,,,,
+,,,,,,,,7750,Production,,,,
+,,,,,,,,7750,Production,,,,
+,,,,,,,,7750,Production,,,,
+,,,,,,,,7800,Production,,,,
+,,,,,,,,7810,Production,,,,
+,,,,,,,,7810,Production,,,,
+,,,,,,,,7810,Production,,,,
+,,,,,,,,7830,Production,,,,
+,,,,,,,,7840,Production,,,,
+,,,,,,,,7850,Production,,,,
+,,,,,,,,7855,Production,,,,
+,,,,,,,,7900,Production,,,,
+,,,,,,,,7900,Production,,,,
+,,,,,,,,7920,Production,,,,
+,,,,,,,,7930,Production,,,,
+,,,,,,,,7940,Production,,,,
+,,,,,,,,7950,Production,,,,
+,,,,,,,,7950,Production,,,,
+,,,,,,,,7950,Production,,,,
+,,,,,,,,7950,Production,,,,
+,,,,,,,,7950,Production,,,,
+,,,,,,,,8030,Production,,,,
+,,,,,,,,8040,Production,,,,
+,,,,,,,,8040,Production,,,,
+,,,,,,,,8100,Production,,,,
+,,,,,,,,8100,Production,,,,
+,,,,,,,,8100,Production,,,,
+,,,,,,,,8100,Production,,,,
+,,,,,,,,8220,Production,,,,
+,,,,,,,,8130,Production,,,,
+,,,,,,,,8140,Production,,,,
+,,,,,,,,8140,Production,,,,
+,,,,,,,,8220,Production,,,,
+,,,,,,,,8220,Production,,,,
+,,,,,,,,8220,Production,,,,
+,,,,,,,,8220,Production,,,,
+,,,,,,,,8220,Production,,,,
+,,,,,,,,8250,Production,,,,
+,,,,,,,,8255,Production,,,,
+,,,,,,,,8256,Production,,,,
+,,,,,,,,8300,Production,,,,
+,,,,,,,,8310,Production,,,,
+,,,,,,,,8320,Production,,,,
+,,,,,,,,8330,Production,,,,
+,,,,,,,,8330,Production,,,,
+,,,,,,,,8350,Production,,,,
+,,,,,,,,8350,Production,,,,
+,,,,,,,,8400,Production,,,,
+,,,,,,,,8400,Production,,,,
+,,,,,,,,8410,Production,,,,
+,,,,,,,,8420,Production,,,,
+,,,,,,,,8460,Production,,,,
+,,,,,,,,8460,Production,,,,
+,,,,,,,,8450,Production,,,,
+,,,,,,,,8460,Production,,,,
+,,,,,,,,8500,Production,,,,
+,,,,,,,,8510,Production,,,,
+,,,,,,,,8550,Production,,,,
+,,,,,,,,8550,Production,,,,
+,,,,,,,,8530,Production,,,,
+,,,,,,,,8540,Production,,,,
+,,,,,,,,8550,Production,,,,
+,,,,,,,,8600,Production,,,,
+,,,,,,,,8600,Production,,,,
+,,,,,,,,8600,Production,,,,
+,,,,,,,,8610,Production,,,,
+,,,,,,,,8620,Production,,,,
+,,,,,,,,8630,Production,,,,
+,,,,,,,,8630,Production,,,,
+,,,,,,,,8630,Production,,,,
+,,,,,,,,8630,Production,,,,
+,,,,,,,,8640,Production,,,,
+,,,,,,,,8640,Production,,,,
+,,,,,,,,8650,Production,,,,
+,,,,,,,,8650,Production,,,,
+,,,,,,,,8650,Production,,,,
+,,,,,,,,8710,Production,,,,
+,,,,,,,,8710,Production,,,,
+,,,,,,,,8720,Production,,,,
+,,,,,,,,8730,Production,,,,
+,,,,,,,,8740,Production,,,,
+,,,,,,,,8750,Production,,,,
+,,,,,,,,8760,Production,,,,
+,,,,,,,,8760,Production,,,,
+,,,,,,,,8760,Production,,,,
+,,,,,,,,8800,Production,,,,
+,,,,,,,,8810,Production,,,,
+,,,,,,,,8810,Production,,,,
+,,,,,,,,8810,Production,,,,
+,,,,,,,,8965,Production,,,,
+,,,,,,,,8830,Production,,,,
+,,,,,,,,8850,Production,,,,
+,,,,,,,,8965,Production,,,,
+,,,,,,,,8965,Production,,,,
+,,,,,,,,8910,Production,,,,
+,,,,,,,,8920,Production,,,,
+,,,,,,,,8930,Production,,,,
+,,,,,,,,8940,Production,,,,
+,,,,,,,,8950,Production,,,,
+,,,,,,,,8965,Production,,,,
+,,,,,,,,9000,Transportation and Material Moving,,,,
+,,,,,,,,9000,Transportation and Material Moving,,,,
+,,,,,,,,9000,Transportation and Material Moving,,,,
+,,,,,,,,9030,Transportation and Material Moving,,,,
+,,,,,,,,9030,Transportation and Material Moving,,,,
+,,,,,,,,9040,Transportation and Material Moving,,,,
+,,,,,,,,9040,Transportation and Material Moving,,,,
+,,,,,,,,9050,Transportation and Material Moving,,,,
+,,,,,,,,9110,Transportation and Material Moving,,,,
+,,,,,,,,9120,Transportation and Material Moving,,,,
+,,,,,,,,9120,Transportation and Material Moving,,,,
+,,,,,,,,9130,Transportation and Material Moving,,,,
+,,,,,,,,9130,Transportation and Material Moving,,,,
+,,,,,,,,9130,Transportation and Material Moving,,,,
+,,,,,,,,9140,Transportation and Material Moving,,,,
+,,,,,,,,9150,Transportation and Material Moving,,,,
+,,,,,,,,9200,Transportation and Material Moving,,,,
+,,,,,,,,9200,Transportation and Material Moving,,,,
+,,,,,,,,9200,Transportation and Material Moving,,,,
+,,,,,,,,9260,Transportation and Material Moving,,,,
+,,,,,,,,9240,Transportation and Material Moving,,,,
+,,,,,,,,9260,Transportation and Material Moving,,,,
+,,,,,,,,9260,Transportation and Material Moving,,,,
+,,,,,,,,9300,Transportation and Material Moving,,,,
+,,,,,,,,9310,Transportation and Material Moving,,,,
+,,,,,,,,9310,Transportation and Material Moving,,,,
+,,,,,,,,9300,Transportation and Material Moving,,,,
+,,,,,,,,9420,Transportation and Material Moving,,,,
+,,,,,,,,9350,Transportation and Material Moving,,,,
+,,,,,,,,9360,Transportation and Material Moving,,,,
+,,,,,,,,9420,Transportation and Material Moving,,,,
+,,,,,,,,9410,Transportation and Material Moving,,,,
+,,,,,,,,9415,Transportation and Material Moving,,,,
+,,,,,,,,9420,Transportation and Material Moving,,,,
+,,,,,,,,9560,Transportation and Material Moving,,,,
+,,,,,,,,9510,Transportation and Material Moving,,,,
+,,,,,,,,9520,Transportation and Material Moving,,,,
+,,,,,,,,9520,Transportation and Material Moving,,,,
+,,,,,,,,9520,Transportation and Material Moving,,,,
+,,,,,,,,9560,Transportation and Material Moving,,,,
+,,,,,,,,9600,Transportation and Material Moving,,,,
+,,,,,,,,9610,Transportation and Material Moving,,,,
+,,,,,,,,9620,Transportation and Material Moving,,,,
+,,,,,,,,9630,Transportation and Material Moving,,,,
+,,,,,,,,9640,Transportation and Material Moving,,,,
+,,,,,,,,9650,Transportation and Material Moving,,,,
+,,,,,,,,9650,Transportation and Material Moving,,,,
+,,,,,,,,9650,Transportation and Material Moving,,,,
+,,,,,,,,9720,Transportation and Material Moving,,,,
+,,,,,,,,9750,Transportation and Material Moving,,,,
+,,,,,,,,9750,Transportation and Material Moving,,,,
+,,,,,,,,9750,Transportation and Material Moving,,,,
+,,,,,,,,9800,Military Personnel,,,,
+,,,,,,,,9810,Military Personnel,,,,
+,,,,,,,,9820,Military Personnel,,,,
+,,,,,,,,9830,Military Personnel,,,,
+,,,,,,,,9920,NA,,,,

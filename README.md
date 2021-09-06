@@ -15,13 +15,14 @@ The findings from my analysis are featured in an interactive web app run by the 
 The data come from IPUMS 2017 American Community Survey (ACS) 1-year estimates, available at: https://usa.ipums.org/usa/index.shtml. Due to copyright and licensing, the original data are not provided in this repository but can be obtained from IPUMS directly.
 
 ### Findings
+All the charts below are sourced form the [offical GMU web app](https://chss.gmu.edu/careers/can-i-get-a-job). Click a chart to explore!
 
 Employment Rates  | Industry Outcomes 
 :-------------------------:|:-------------------------:
-<a href=""><img src="img/employment.png" style="width:500px;" /></a>|<a href=""><img src="img/job_outcomes.png" style="width:500px;" /></a>
+<a href="https://chss.gmu.edu/careers/can-i-get-a-job"><img src="img/employment.png" style="width:500px;" /></a>|<a href="https://chss.gmu.edu/careers/where-do-our-students-work"><img src="img/job_outcomes.png" style="width:500px;" /></a>
 
 |Earnings|
 :--------:
-|<a href=""><img src="img/incomes.png"/></a>
+|<a href="https://chss.gmu.edu/careers/can-i-get-a-job/salary-by-degree"><img src="img/incomes.png"/></a>
 
 

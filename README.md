@@ -2,7 +2,7 @@
 ---
 
 ### Project Summary
-In November 2018, I was commissioned by the Office of the Senior Associate Dean of the College of Humanities and Social Sciences at George Mason Univeristy (GMU) to answer the following research questions for the university:
+In November 2018, I was commissioned by the Office of the Senior Associate Dean of the College of Humanities and Social Sciences (CHSS) at George Mason Univeristy (GMU) to answer the following research questions for the university:
 
 1. What is the median and average salary for those holding degrees offered by GMU's College of Humanities & Social Sciences (CHSS) both (a.) nationwide and (b.) in the DC metropolitan area?
 2. What is the unemployment rate for those holding degrees offered by GMU CHSS both (a.) nationwide and (b.) in the DC metropolitan area?

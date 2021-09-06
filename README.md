@@ -1,4 +1,4 @@
-# Analyzing Labor Market Outcomes of Humanities & Social Science College Degree Holders in the USA
+## Analyzing Labor Market Outcomes of Humanities & Social Science College Degree Holders in the USA for George Mason Univeristy
 ---
 
 ### Project Summary
